@@ -9,6 +9,7 @@ Hybrid Demucsを使って遊ぼ
 ```powershell
 python3.exe -m pip install --upgrade pip
 ```
+
 C.F. [Start Locally](https://pytorch.org/get-started/locally/)
 
 ```powershell
